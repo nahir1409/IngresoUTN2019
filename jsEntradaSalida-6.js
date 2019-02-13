@@ -3,7 +3,7 @@ transformarlos a enteros (parseInt) y Sumarlos.
 Mostar el resulto por medio de "ALERT"*/
 function sumar()
 {
-    var num1;
+ var num1;
     var num2;
     var resultado;
 

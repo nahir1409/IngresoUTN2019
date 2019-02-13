@@ -4,7 +4,7 @@ mostrar el importe con un Descuento del 25 %
 en el cuadro de texto "RESULTADO"*/
 function MostrarDescuento()
 {
-    var sueldo;
+	var sueldo;
     var nuevoSueldo;
     var descuento;
 
@@ -15,5 +15,4 @@ function MostrarDescuento()
     document.getElementById("resultado").value = nuevoSueldo;
 
     alert("El descuento es de: $" + descuento);
-	
 }

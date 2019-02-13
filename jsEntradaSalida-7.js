@@ -2,9 +2,8 @@
 transformarlos a enteros (parseInt),realizar la operación correcta y 
 mostar el resulto por medio de "ALERT"
 ej.: "la Resta es 750"*/ 
-function sumar() /*acordate de poner parseInt sino no hace la operación que le mando*/
-{	
-    var num1;
+function sumar()
+{	 var num1;
     var num2;
     var resultado;
 
@@ -80,5 +79,5 @@ function dividir()
 
     alert("La división es: " + resultado);
 
+	
 }
-
