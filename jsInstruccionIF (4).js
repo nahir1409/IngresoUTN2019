@@ -6,9 +6,9 @@ var edad;
 
 edad = parseInt(document.getElementById("edad").value);
 
-if (edad == 15) {
+if (edad 13>= ) {
 
-    alert(" Niña Bonita");
+    alert("Eres un adolescente");
 }
 
 }//FIN DE LA FUNCIÓN
